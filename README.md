@@ -6,8 +6,6 @@ I've been building production web apps for a number of years, mostly partnering 
 
 My day-to-day is core frontend; alongside it I'm learning more about AI and LLM tooling, gaining an understanding of LLM-powered product experiences with streaming latency, RAG pipelines and knowledge graphs. This is where some of my curiosity sits right now.
 
----
-
 ## 💡 What I care about
 
 - Thoughtful UX and interaction design
