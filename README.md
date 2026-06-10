@@ -13,21 +13,20 @@ My day-to-day is core frontend; alongside it I'm learning more about AI and LLM 
 - The small details: typography, spacing, motion, feedback
 - Building components and patterns that scale
 
-## 🧰 Tech I Use
+## 💻 Tech I Use
 
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React, Next.js, Svelte
 - **Styling:** Tailwind, CSS modules
 - **Testing:** [Cypress, Jest, React Testing Library]
 
-## 🌱 Currently learning
+## 👩‍💻 Currently learning
 
 - More of the AI/LLM stack — what good products look like beyond a chat box
 - RAG pipelines: retrieval strategies, chunking, evaluation
 - Knowledge graphs and how they support retrieval
 - Expanding into full-stack workflows
 
----
 
 ## 📫 Find me
 
